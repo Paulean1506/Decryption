@@ -7,3 +7,6 @@ import pyfiglet
 
 # Header for the activity
 print("Decryption".center(70, "="))
+
+# Request the user to input a string to be decrypted
+encrypted_str = input("\033[95mEnter a string to decrypt: ")
